@@ -1,0 +1,89 @@
+{
+  "job_1770506117125_yewqoulzd": {
+    "id": "job_1770506117125_yewqoulzd",
+    "name": "Sample Job - Main Street",
+    "startTime": "2026-02-07T23:15",
+    "segments": [
+      {
+        "id": 1,
+        "name": "Road Closure and Pedestrian Segregation",
+        "duration": 30,
+        "status": "pending"
+      },
+      {
+        "id": 2,
+        "name": "Road Planing",
+        "duration": 60,
+        "status": "pending"
+      },
+      {
+        "id": 3,
+        "name": "Road Preparation",
+        "duration": 45,
+        "status": "pending"
+      },
+      {
+        "id": 4,
+        "name": "Road Surfacing",
+        "duration": 60,
+        "status": "pending"
+      },
+      {
+        "id": 5,
+        "name": "Road Lining",
+        "duration": 30,
+        "status": "pending"
+      }
+    ],
+    "nextSegmentId": 6,
+    "delays": [],
+    "createdAt": "2026-02-07T23:15:17.125Z",
+    "lastUpdated": "2026-02-07T23:15:17.125Z"
+  },
+  "job_1770506419113_aqo5iw2g2": {
+    "id": "job_1770506419113_aqo5iw2g2",
+    "name": "Frederick Road",
+    "startTime": "2026-02-09T09:30",
+    "segments": [
+      {
+        "id": 1,
+        "name": "Road Closure and Pedestrian Segregation",
+        "duration": 30,
+        "status": "pending",
+        "displayStatus": "pending"
+      },
+      {
+        "id": 2,
+        "name": "Road Planing",
+        "duration": 180,
+        "status": "pending",
+        "displayStatus": "pending"
+      },
+      {
+        "id": 3,
+        "name": "Road Preparation",
+        "duration": 120,
+        "status": "pending",
+        "displayStatus": "pending"
+      },
+      {
+        "id": 4,
+        "name": "Road Surfacing",
+        "duration": 60,
+        "status": "pending",
+        "displayStatus": "pending"
+      },
+      {
+        "id": 5,
+        "name": "Road Lining",
+        "duration": 30,
+        "status": "pending",
+        "displayStatus": "pending"
+      }
+    ],
+    "nextSegmentId": 6,
+    "delays": [],
+    "createdAt": "2026-02-07T23:20:19.113Z",
+    "lastUpdated": "2026-02-07T23:20:47.706Z"
+  }
+}

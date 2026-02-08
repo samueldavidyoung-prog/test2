@@ -1,0 +1,5 @@
+
+
+
+
+I want to build a website to track the daily progress of construction projects. This will consist of a main page that will generate view only pages for the public to view with a qr code to link them. This will be customisable for up to two weeks of duration, with a drop down menu to select which day to view the progress of. I want the display of the progress of the project to be like the dominoes delivery wheel, where there are seperate segments to differenciate which part of the phase the project is in. there will be a view only mode and an admin mode. the view only mode will only see the circle with the progress and descriptions displayed under the cirlce, with the legal information present at the very bottom of the page. when in admin mode, they are able to edit each segment to represent the percentage of the project completion, each segment will be fully customisable and removable. we will generate a qr code for each individual job and will be stored to a local database which you will create, seperate these into files and create a zip folder.  
